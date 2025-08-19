@@ -694,6 +694,32 @@ https://aqfadtv.xyz/supersport4.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Premier League",Astro Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astrofootball/chunks.m3u8?nimblesessionid=40310452&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzQ6MjUgUE0maGFzaF92YWx1ZT1FRFJXa1hnZUVWNXJVdHc2dEovU2VBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Premier League",Astro Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astrograndstand/chunks.m3u8?nimblesessionid=40310501&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzQ6NTYgUE0maGFzaF92YWx1ZT1zVERWdUYxT1hHck82d05TTUhxWXNBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Premier League",Astro Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astropremierleague/chunks.m3u8?nimblesessionid=40310583&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzU6MzMgUE0maGFzaF92YWx1ZT1vK3pKUWp5clE0TG4vUEhFRkt1Z0dnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Premier League",Astro Premier League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astropremierleague2/chunks.m3u8?nimblesessionid=40310653&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzY6MDEgUE0maGFzaF92YWx1ZT0yWkdkcEM5WWFsam9LMXFXamNWa2tRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI4
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Premier League",Astro Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://streamamg-fa.akamaiz.com/dookeela/astrosportsplus/chunks.m3u8?nimblesessionid=40310717&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzY6NDAgUE0maGFzaF92YWx1ZT1hQmVxdUpUKzJkZGxPTWdjTXlvRGhBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI0
+
+
 
 
 <==================================================== Serie A ====================================================>
