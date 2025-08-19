@@ -767,6 +767,49 @@ https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
 https://icecream.jasoncreak8.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="Premier League", ASTRO SUPERSPORT 1
+https://hakim45.serv00.net/smarttv.php?id=go_assp1
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="Premier League", ASTRO SUPERSPORT 2
+https://hakim45.serv00.net/smarttv.php?id=o_assp2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="Premier League", ASTRO SUPERSPORT 3
+https://hakim45.serv00.net/smarttv.php?id=go_assp3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="Premier League", ASTRO SUPERSPORT 4
+https://hakim45.serv00.net/smarttv.php?id=go_badminton1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="Premier League", ASTRO PREMIER LEAGUE
+https://hakim45.serv00.net/smarttv.php?id=go_assp1
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="Premier League", ASTRO PREMIER LEAGUE 2
+https://hakim45.serv00.net/smarttv.php?id=go_assp2
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="Premier League", ASTRO GRANDSTAND
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTExNTE1NzgsImlzcyI6IlZSIiwiZXhwIjoxNzUxMjM2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZTI5MzAzZjItODc2Ni00MzQ4LWFlNzUtYTBhYjNjOGE3NjIxIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.OU5xaB_DybUOPy1cdgUDNtoJzTFFlfwyIwM3oM4nMMg"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"66c94fd8908c43ccb5e7b3dd58a990d2":"d489da5a8496d00a04757d432816ab71","505aefcda9084f83bc5c6cc53f0ef9c6":"f89898184ed921e225cd89f4d2ea1035"}
+https://l03.dp.sooka.my/2701/linear/index.mpd
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="Premier League", ASTRO FOOTBALL
+https://hakim45.serv00.net/smarttv.php?id=go_assp4
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="Premier League", ASTRO BADMINTON
+https://hakim45.serv00.net/smarttv.php?id=go_badminton1
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="Premier League", ASTRO BADMINTON 2
+https://hakim45.serv00.net/smarttv.php?id=go_badminton2
+
+
 
 
 
