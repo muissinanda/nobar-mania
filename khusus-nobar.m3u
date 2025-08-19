@@ -719,6 +719,55 @@ https://streamamg-fa.akamaiz.com/dookeela/astropremierleague2/chunks.m3u8?nimble
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
 https://streamamg-fa.akamaiz.com/dookeela/astrosportsplus/chunks.m3u8?nimblesessionid=40310717&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI1IDc6MzY6NDAgUE0maGFzaF92YWx1ZT1hQmVxdUpUKzJkZGxPTWdjTXlvRGhBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTYwMzRiODM3ZTk2ODAxYWUwNzUyMzAwNGIyMThhYWUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTI0
 
+#EXTINF:-1 tvg-id="814.astro" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/aspot.jpg" group-title="Premier League",Astro Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+https://icecream.jasoncreak8.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/aspoplu.jpg" group-title="Premier League",Astro Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+https://icecream.jasoncreak8.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
+
+#EXTINF:-1 tvg-id="810.astro" ch-number="813" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/asgra.jpg" group-title="Premier League",Astro Grandstand
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341541&extension=ts&play_token=oul54xKYh2
+
+#EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport HD" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/aspre.jpg" group-title="Premier League",Astro Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+https://icecream.jasoncreak8.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+
+#EXTINF:-1 tvg-id="812.astro" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/aspre2.jpg" group-title="Premier League",Astro Premier League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
+https://icecream.jasoncreak8.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
+
+#EXTINF:-1 tvg-id="805.astro" group-title="Premier League" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/asuh.jpg",Astro Sports UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
+https://icecream.jasoncreak8.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
+
+#EXTINF:-1 tvg-id="815.astro" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/asbad.jpg" group-title="Premier League",Astro Badminton
+https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+
+#EXTINF:-1 group-title="Premier League" tvg-id="823.astro" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/sptv1.jpg",SpoTV 1 m
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
+https://icecream.jasoncreak8.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+
+
 
 
 
