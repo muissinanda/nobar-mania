@@ -809,6 +809,20 @@ https://hakim45.serv00.net/smarttv.php?id=go_badminton1
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="Premier League", ASTRO BADMINTON 2
 https://hakim45.serv00.net/smarttv.php?id=go_badminton2
 
+#EXTINF:-1 group-title="Premier League",Astro Premier League
+https://hls-gateway.vpstv.net/streams/709046.m3u8
+
+#EXTINF:-1 group-title="Premier League",Astro Premier League 2
+https://hls-gateway.vpstv.net/streams/477792.m3u8
+
+#EXTINF:-1 group-title="Premier League",Astro GrandStand
+https://hls-gateway.vpstv.net/streams/605093.m3u8
+
+#EXTINF:-1 group-title="Premier League",Astro Football
+https://hls-gateway.vpstv.net/streams/708998.m3u8
+
+#EXTINF:-1 group-title="Premier League",Astro Badminton LIVE
+https://hls-gateway.vpstv.net/streams/477793.m3u8
 
 
 
