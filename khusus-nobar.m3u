@@ -161,27 +161,28 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/o
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen1.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_1.webp",SONY SPORTS TEN 1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 group-title="Sony Sports" tvg-id="SonySportsTen1.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_1.webp",SONY SPORTS TEN 1
+https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen2.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_2.webp",SONY SPORTS TEN 2
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 group-title="Sony Sports" tvg-id="SonySportsTen2.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_2.webp",SONY SPORTS TEN 2
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen3.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_3.webp",SONY SPORTS TEN 3
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 group-title="Sony Sports" tvg-id="SonySportsTen3.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_3.webp",SONY SPORTS TEN 3
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen4.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_4.webp",SONY SPORTS TEN 4
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 group-title="Sony Sports" tvg-id="SonySportsTen4.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_4.webp",SONY SPORTS TEN 4
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -1442,3 +1443,4 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/7757
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/7759
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1 " tvg-logo="http://tv.streamid.tv:8080/images/94165675669579b870b242dc2e64e7d2.png" group-title="BeIN Sports", FR | BEIN SPORTS 1
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/192212
+
