@@ -946,6 +946,47 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
+#EXTM3U
+
+#BEIN SPORTS 1 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="Premier League", BEIN SPORTS 1 EN
+https://windnew.newkso.ru/wind/premium61/mono.m3u8|referer=https://webxzplay.cfd/
+
+#BEIN SPORTS 2 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="Premier League", BEIN SPORTS 2 EN
+https://zekonew.newkso.ru/zeko/premium90/mono.m3u8|referer=https://webxzplay.cfd/
+
+#BEIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="Premier League", BEIN SPORTS 3
+https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8|referer=https://webxzplay.cfd/
+
+#BEIN SPORTS 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="Premier League", BEIN SPORTS 4
+https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8|referer=https://webxzplay.cfd/
+
+#BEIN SPORTS 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="Premier League", BEIN SPORTS 5
+https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8|referer=https://webxzplay.cfd/
+
+#BEIN SPORTS 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="Premier League", BEIN SPORTS 6
+https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8|referer=https://webxzplay.cfd/
+
+#BEIN SPORTS 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="Premier League", BEIN SPORTS 7
+https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8|referer=https://webxzplay.cfd/
+
+#BEIN SPORTS 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="Premier League", BEIN SPORTS 8
+https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8|referer=https://webxzplay.cfd/
+
+#BEIN SPORTS 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="Premier League", BEIN SPORTS 9
+https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8|referer=https://webxzplay.cfd/
+
+
 
 
 
@@ -1698,3 +1739,4 @@ http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/7757
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/7759
 #EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORTS 1 " tvg-logo="http://tv.streamid.tv:8080/images/94165675669579b870b242dc2e64e7d2.png" group-title="BeIN Sports", FR | BEIN SPORTS 1
 http://tv.streamid.tv:8080/SergioMora93838/xgnqwAxcZi/192212
+
