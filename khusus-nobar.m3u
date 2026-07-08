@@ -1,6 +1,6 @@
 #EXTM3U
 
-#BEIN SPORTS 1 EN
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 EN" tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="Bein Sports",BEIN SPORTS 1 EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="Bein Sports", BEIN SPORTS 1 EN
+#EXTVLCOPT:http-referrer=https://example.com/
 http://streaming.birdmox.my.id:80/play/live.php?mac=00:1A:79:D0:11:7D&stream=2077049&extension=ts
